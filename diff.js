@@ -1,5 +1,5 @@
 const diff = (a,b) => {
-    return a-b
+    console.log(a-b);
 };
 
 diff(a,b);
