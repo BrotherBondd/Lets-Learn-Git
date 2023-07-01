@@ -1,5 +1,5 @@
 const add = (a,b) => {
-    return a + b;
+    return `sum is ${a+b}`;
 }
 
 add(2,4);
